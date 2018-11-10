@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl : 'http://localhost:65452'
+  apiUrl : 'https://dycsw-banking-monolithic-netcore-api-accountable-grysbok.cfapps.io'
 };
 
 /*
