@@ -1,4 +1,4 @@
-# Banking Ng 6 - BAD
+# Banking Ng 6 - BAD ok
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 

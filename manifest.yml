@@ -1,6 +1,6 @@
 ---
 applications:
-- name: banking-ng
+- name: banking17-ng
   buildpack: staticfile_buildpack
   memory: 256M
   instances: 1
